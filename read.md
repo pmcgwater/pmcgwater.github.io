@@ -1,1 +1,1 @@
-from this page will come a great website!
+from this page will some day come a great website!
