@@ -6,6 +6,3 @@ navbar:
       href: FirstPage.html
     - text: "Water Treatment"
       href: TheAbout.html
-output:
-  html_document:
-    theme: cerulean
