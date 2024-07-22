@@ -2,7 +2,7 @@ name: "my-website"
 navbar:
   title: "Fresh Water Research"
   left:
-    - text: "Shoreland P"
-      href: index.html
-    - text: "About"
-      href: about.html
+    - text: "Shoreland Phosphorus Model"
+      href: FirstPage.html
+    - text: "Water Treatment"
+      href: TheAbout.html
