@@ -1,1 +1,11 @@
-
+name: "my-website"
+navbar:
+  title: "Fresh Water Research"
+  left:
+    - text: "Shoreland Phosphorus Model"
+      href: FirstPage.html
+    - text: "Water Treatment"
+      href: TheAbout.html
+ output:
+  html_document:
+  theme: cerulean
