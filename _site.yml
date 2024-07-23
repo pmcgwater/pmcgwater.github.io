@@ -1,8 +1,8 @@
 name: "my-website"
 navbar:
-  title: "My Website 2"
+  title: "Fresh Water Research"
   left:
-    - text: "Home"
+    - text: "Shoreland P Model"
       href: index.html
     - text: "About"
       href: about.html
