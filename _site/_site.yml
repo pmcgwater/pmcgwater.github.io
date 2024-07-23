@@ -1,0 +1,16 @@
+name: "my-website"
+navbar:
+  title: "My Website 2"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+output:
+  html_document:
+    theme: cerulean
+    highlight: zenburn
+    toc: true
+    toc_depth: 2
+    toc_float:
+      collapsed: false
