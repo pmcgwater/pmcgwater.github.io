@@ -2,6 +2,8 @@ name: "my-website"
 navbar:
   title: "Fresh Water Research"
   left:
+    - text: "Fresh Water Research"
+      href: index.html
     - text: "Shoreland Phosphorus Model"
       href: FirstPage.html
     - text: "Water Treatment"
