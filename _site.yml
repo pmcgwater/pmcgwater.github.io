@@ -2,10 +2,12 @@ name: "my-website"
 navbar:
   title: "Fresh Water Research"
   left:
-    - text: "Shoreland P Model"
-      href: index.html
     - text: "About"
-      href: about.html
+      href: index.html
+    - text: "Shoreland P Model"
+      href: shorephos.html
+    - text: "Water Chem"
+      href: wchem.html
 output:
   html_document:
     theme: cerulean
