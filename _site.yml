@@ -1,6 +1,6 @@
 name: "my-website"
 navbar:
-  title: "My Website"
+  title: "My Website 2"
   left:
     - text: "Home"
       href: index.html
