@@ -6,7 +6,7 @@ navbar:
       href: index.html
     - text: "Shoreland P Model"
       href: shorephos.html
-    - text: "Water Chem"
+    - text: "Water Chemistry"
       href: wchem.html
 output:
   html_document:
