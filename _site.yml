@@ -4,8 +4,12 @@ navbar:
   left:
     - text: "About"
       href: index.html
+    - text: "Lake Eutrophication"
+      href: eutro.html
     - text: "Shoreland P Model"
       href: shorephos.html
+    - text: "Septic Systems"
+      href: septics.html
     - text: "Water Chemistry"
       href: wchem.html
 output:
